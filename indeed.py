@@ -1,6 +1,5 @@
 import requests
 from bs4 import BeautifulSoup
-from comma_modifier import escape_comma
 
 LIMIT = 50
 SEARCH_KEYWORD = "python"
