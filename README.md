@@ -4,7 +4,7 @@ JobScraper from indeed using python exporting csv.
 
 # Feature
 
-It exports japan's python developer job post in default and export data to csv.
+It exports japan's python developer job post in default and export data to csv.  
 The data include job title, company, income, location and job link.
 
 # Used Library
